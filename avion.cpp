@@ -1,5 +1,6 @@
 #include "avion.h"
 
+
 void Avion::setKapetan(Pilot& kapetan)
 {
 	if (kapetan.getNaLetu() || kapetan.getSate() < 100) return;
