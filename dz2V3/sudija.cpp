@@ -1,3 +1,4 @@
+// Ova klasa je data kao moguća modifikacija od strane starijih studenata i nije urađena do kraja.
 #include "sudija.h"
 
 Sudija::Sudija(string name, int exp)
