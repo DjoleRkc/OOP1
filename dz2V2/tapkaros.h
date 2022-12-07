@@ -1,3 +1,4 @@
+// Ova klasa je data kao moguća modifikacija od strane starijih studenata i nije urađena do kraja.
 #ifndef _tapkaros_h
 #define _tapkaros_h
 #include <string>
